@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookOcean</string>
+
+    <string name="appCenterCrashes_whenToSendCrashes" translatable="false" moduleConfig="true">DO_NOT_ASK_JAVASCRIPT</string>
+
+    <string name="appCenterAnalytics_whenToEnableAnalytics" translatable="false" moduleConfig="true">ALWAYS_SEND</string>
+
+    <string name="CodePushDeploymentKey" moduleConfig="true">c7ew7QIGlKVcjZPiXv-RSI5GYZMScD9rxukmd</string>
+</resources>
